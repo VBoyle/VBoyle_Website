@@ -1,17 +1,18 @@
 /* Place CSS styles here */
 *{
     margin: 0px;
+    margin-right: 100px;
     padding: 0px;
     }
 body{
-    background-color: rgb(144, 200, 200);
-    color:rgb(16, 6, 58);
-    text-align: center;
+    background-color: rgb(199, 209, 199);
+    color:rgb(21, 36, 39);
+    text-align: left;
     
     
 }
 #main_container{
-    width: 400px;
+    width: 1533px;
     border-width: 1px;
     border-style: solid;
     border-color: rgb(255, 255, 255);
@@ -20,9 +21,14 @@ body{
     margin-left: auto;
     background-color: #ffffff;}
 
-h1 {font-family: "Petit Formal Script", cursive;font-size: 24px;margin-top: 20px;color: blue;}
-h2 {font-family: "Bruno Ace", sans-serif;font-size: 35px;}
-h3 {font-family: "Bilbo Swash Caps", cursive;font-size: 45px;margin-top: 20px;}
-h4 {font-family: "Glegoo", serif;font-size: 15px;margin-top: 10px;margin-bottom: 20px}
-.mango-zebra {border: 1px green;}
+h1 {font-family: "Petit Formal Script", cursive;font-size: 24px;margin-left: 100px}
+h2 {font-family: "Bruno Ace", sans-serif;font-size: 35px;margin-left: 100px}
+h3 {font-family: "Bilbo Swash Caps", cursive;font-size: 45px;margin-top: 20px;margin-left: 100px}
+h4 {font-family: "Glegoo", serif;font-size: 15px;margin-top: 10px;margin-bottom: 20px; margin-left: 100px}
+
+img {
+    display: block;
+    margin-left: auto;
+  }
+
 
