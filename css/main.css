@@ -11,7 +11,7 @@ body{
     
     
 }
-#main_container{
+.main_container{
     width: 1533px;
     border-width: 1px;
     border-style: solid;
