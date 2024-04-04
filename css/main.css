@@ -19,13 +19,13 @@ div {
     margin-top: 20px;
     margin-right: auto;
     margin-left: auto;
-    background-color: #ffffff;
+    background-color: #f3f5f0;
     overflow: hidden;
 }
 
-h1 {font-family: "Josefin Sans", sans-serif;font-weight: 500; font-size: 17px;font-style: normal;margin-left: 20px; margin-top: 15px;margin-right: 20px;}
-h2 {font-family: "Inter", sans-serif;font-weight: 600;font-style: normal;margin-left: 20px; margin-top: 50px;}
-h3 {font-family: "Inter", sans-serif;font-weight: 600; font-size: 20px;font-style: normal;margin-left: 20px;}
+h1 {font-family: "Josefin Sans", sans-serif;font-weight: 500; font-size: 17px;font-style: normal;margin-left: 20px; margin-top: 15px;margin-right: 20px;color:rgb(8, 32, 24) }
+h2 {font-family: "Inter", sans-serif;font-weight: 600;font-style: normal;margin-left: 20px; margin-top: 50px;color:rgb(8, 32, 24)}
+h3 {font-family: "Inter", sans-serif;font-weight: 600; font-size: 20px;font-style: normal;margin-left: 20px;color:rgb(8, 32, 24)}
 
 .left {
     text-align: left;
