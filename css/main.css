@@ -1,33 +1,45 @@
 /* Place CSS styles here */
 *{
     margin: 0px;
-    margin-right: 100px;
+    margin-right: 0px;
     padding: 0px;
     }
 body{
     background-color: rgb(199, 209, 199);
     color:rgb(21, 36, 39);
-    text-align: left;
+   
     
     
 }
-.flex_container{
-    width: 1533px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(255, 255, 255);
+div {
+    width: 900px;
     margin-top: 20px;
     margin-right: auto;
     margin-left: auto;
-    background-color: #ffffff;}
+    background-color: #ffffff;
+    overflow: hidden;
+}
 
-h1 {font-family: "Josefin Sans", sans-serif;font-weight: 500; font-size: 20px;font-style: normal;margin-left: 200px; margin-top: 40px;}
-h2 {font-family: "Inter", sans-serif;font-weight: 400;font-style: normal;margin-left: 200px; margin-top: 50px;}
-h3 {font-family: "Inter", sans-serif;font-weight: 600; font-size: 15px;font-style: normal;margin-left: 200px;}
+h1 {font-family: "Josefin Sans", sans-serif;font-weight: 500; font-size: 17px;font-style: normal;margin-left: 20px; margin-top: 15px;margin-right: 20px;}
+h2 {font-family: "Inter", sans-serif;font-weight: 600;font-style: normal;margin-left: 20px; margin-top: 50px;}
+h3 {font-family: "Inter", sans-serif;font-weight: 600; font-size: 20px;font-style: normal;margin-left: 20px;}
+
+.left {
+    text-align: left;
+    float: left;
+    clear: none;
+    width: 50%;
+}
+.right {
+    text-align: right;
+    float: right;
+    clear: none;
+    width: 50%;
+}
 
 img {
     display: block;
-    margin-left: 1000px;
+    margin-left: 550px;
     margin-top: 20px;
   }
 img {
@@ -36,5 +48,6 @@ img {
     left: 0 px;
     z-index: 1;
 }
+
 
 
